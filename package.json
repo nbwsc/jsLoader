@@ -18,5 +18,7 @@
   "bugs": {
     "url": "https://github.com/nbwsc/jsLoader/issues"
   },
-  "homepage": "https://github.com/nbwsc/jsLoader#readme"
+  "homepage": "https://github.com/nbwsc/jsLoader#readme",
+  "dependencies": {
+  }
 }
