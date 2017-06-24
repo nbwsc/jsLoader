@@ -1,0 +1,22 @@
+{
+  "name": "jsloader",
+  "version": "1.0.0",
+  "description": "dynamic load js for browser",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbwsc/jsLoader.git"
+  },
+  "author": "nbwsc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbwsc/jsLoader/issues"
+  },
+  "homepage": "https://github.com/nbwsc/jsLoader#readme"
+}
