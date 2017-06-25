@@ -21,7 +21,7 @@ JsLoader.load('https://some.place.net/xxx.js');
 
 JsLoader wont reload the files which has already loaded.
 
-- `some.js` & `some.js?v1.0` & `some.js?v1.2` will be regard as same file
+- `some.js` & `./some.js` & `some.js?v1.2` will be regard as same file
 
 
 ## safety
