@@ -1,5 +1,5 @@
 # jsLoader
-jsLoader for browser.dynamic load js
+Dynamic javascript loader for browser
 
 ## EASY TO USE
 ```javascript
