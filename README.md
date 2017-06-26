@@ -7,7 +7,7 @@ jsLoader for browser.dynamic load js
 JsLoader.load(file:string [,onSuccess,onError]);
 
 JsLoader.loadFiles(file:string || files:array
- [,onSuccess,onError])
+ [onFinish,onSuccess,onError])
 
 
 /*example*/
