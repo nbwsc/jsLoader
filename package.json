@@ -2,7 +2,7 @@
   "name": "jsloader",
   "version": "1.0.0",
   "description": "dynamic load js for browser",
-  "main": "index.js",
+  "main": "lib/jsLoader.min.js",
   "directories": {
     "test": "test"
   },
